@@ -1,0 +1,28 @@
+body {
+  font-family: sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+#ip-list {
+  margin: 0 auto;
+  width: 200px;
+}
+
+#ip-address {
+  width: 100%;
+}
+
+#cut-off {
+  margin-top: 10px;
+}
+
+#status {
+  margin-top: 10px;
+}
+
+p {
+  font-size: 16px;
+}
